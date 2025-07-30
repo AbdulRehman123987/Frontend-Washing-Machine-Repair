@@ -24,7 +24,7 @@ A modern, responsive website for a **Washing Machine Repair Service**, built usi
 For collaboration or hiring inquiries:
 
 - 📧 Email: rehmanmirza458@gmail.com  
-- 🌐 Portfolio: abdulrehmandev.vercel.app 
+- 🌐 Portfolio: [abdulrehmandev.vercel.app](https://abdulrehmandev.vercel.app)
 
 ---
 
