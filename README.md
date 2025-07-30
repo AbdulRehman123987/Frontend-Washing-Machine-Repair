@@ -2,7 +2,7 @@
 
 A modern, responsive website for a **Washing Machine Repair Service**, built using **HTML, CSS, and JavaScript**. This project is designed to showcase a professional online presence for home appliance repair services.
 
-![Website Screenshot](./screenshot.png)
+![Website Screenshot](./Assets/Washing Machine Repair.png)
 
 ## 🚀 Features
 
